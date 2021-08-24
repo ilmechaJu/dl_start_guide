@@ -1,3 +1,7 @@
+#Be Careful
+1) You should use colab for a_mask_on_off that you'll get 'model.h5'
+2) You should use pycharm for b,c and d_mask_on_off that you able to use 'Webcam' in your computer
+
 # Deep Learning Start Guide Repository
 This repository is designed to show the idea of how Deep Learning works for whom never have had experience on Deep Learning.
 
